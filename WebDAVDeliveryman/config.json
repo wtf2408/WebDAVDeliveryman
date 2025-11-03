@@ -1,0 +1,9 @@
+{
+    "url": "https://webdav.yandex.ru",
+    "username": "bogdanevseyv",
+    "password": "kslukykdtvmsfbbb",
+  
+    "ignoreFolders": [".git", "temp"],
+    "ignoreFiles": ["*.tmp", "*.bak"]
+  }
+  
